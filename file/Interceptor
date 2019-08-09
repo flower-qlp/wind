@@ -1,0 +1,3 @@
+interceptor 拦截器
+
+案例：拦截器 MyInterceptor 添加拦截器:InterceptorConfig

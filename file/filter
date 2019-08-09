@@ -1,0 +1,7 @@
+filter 过滤器
+-------------------------------------------
+项目启动时初始化一次,项目结束时,destory
+
+dofilter()过滤请求地址,字符编码,等等 在拦截器外层
+
+代码案例:webFilter,webFiler2,webFilter2Config
