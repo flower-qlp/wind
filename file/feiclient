@@ -1,0 +1,6 @@
+spring boot 2.0之后 移除了 org/springframework/boot/autoconfigure/web/ServerPropertiesAutoConfiguration.class
+
+@Feiclient等注解位置已经换了
+
+dependencyManagement 配置
+spring-cloud-starter-openfeign 导入
